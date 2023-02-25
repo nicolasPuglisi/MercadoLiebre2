@@ -1,7 +1,6 @@
 {
   "name": "mercadoliebre-main",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "nodemon app.js",
@@ -12,5 +11,15 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasPuglisi/MercadoLiebre2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nicolasPuglisi/MercadoLiebre2/issues"
+  },
+  "homepage": "https://github.com/nicolasPuglisi/MercadoLiebre2#readme",
+  "description": ""
 }
